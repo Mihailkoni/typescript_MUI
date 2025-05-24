@@ -1,4 +1,4 @@
-import structures from 'C:/Users/Lenovo/Desktop/typescript_page/src/data';
+import structures from '../data';
 import ImageList from '@mui/material/ImageList';
 import ImageListItem from '@mui/material/ImageListItem';
 import Box from '@mui/material/Box';
